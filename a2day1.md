@@ -74,6 +74,9 @@ Your browser does not support the video tag.
 </video>
 
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
+
 # Hosting
 
 [# Hosting](https://github.com/configit-samples/clm-hosting)
