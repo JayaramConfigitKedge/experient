@@ -39,7 +39,7 @@ print("hello world!")
 <summary> 
 # Architecture
 </summary>
-![image](https://github.com/JayaramConfigitKedge/experient/blob/main/images/architechture.png)
+![image](images/architechture.png)
 </details>
 
 
