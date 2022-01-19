@@ -34,7 +34,9 @@ print("hello world!")
 
 </p>
 </details>
+![Reverse proxy](img/reverse-proxy.png)
 
+![image](images/architechture.png)
 <details>
 <summary> 
 # Architecture
