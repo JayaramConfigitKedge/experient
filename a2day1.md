@@ -61,15 +61,17 @@ print("hello world!")
 #Day1 training
 </summary>
 
-<video width="320" height="240" controls>
-  <source src="./video/small.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+
 
 
 [![Alternate Text](https://i.imgur.com/vKb2F1B.png)](./video/small.mp4 "Link Title")
 
 </details>
+
+<video width="320" height="240" controls>
+  <source src="./video/small.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 
 # Hosting
