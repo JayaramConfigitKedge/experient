@@ -62,12 +62,12 @@ print("hello world!")
 </summary>
 
 <video width="320" height="240" controls>
-  <source src="./video/ace2training.mp4" type="video/mp4">
+  <source src="./video/small.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
 
-[![Alternate Text](https://i.imgur.com/vKb2F1B.png)](./video/ace2training.mp4 "Link Title")
+[![Alternate Text](https://i.imgur.com/vKb2F1B.png)](./video/small.mp4 "Link Title")
 
 </details>
 
