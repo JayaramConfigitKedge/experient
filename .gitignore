@@ -1,0 +1,5 @@
+
+*.vsidx
+csharp/solution-space-client/ConsoleApp2/ConsoleApp2/bin
+csharp/solution-space-client/ConsoleApp2/.vs
+csharp/solution-space-client/ConsoleApp2/ConsoleApp2/obj
