@@ -3,3 +3,6 @@
 csharp/solution-space-client/ConsoleApp2/ConsoleApp2/bin
 csharp/solution-space-client/ConsoleApp2/.vs
 csharp/solution-space-client/ConsoleApp2/ConsoleApp2/obj
+quote/CustomMetaDataService/.vs
+quote/CustomMetaDataService/src/bin
+quote/CustomMetaDataService/src/obj

@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="6.0.0" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+   
+    <Reference Include="Configit.Approvals.Public">
+      <HintPath>..\contrib\Configit.Approvals.Public.dll</HintPath>
+    </Reference>
+
+    <Reference Include="Configit.Quote.Public">
+      <HintPath>..\contrib\Configit.Quote.Public.dll</HintPath>
+    </Reference>
+
+    <Reference Include="Configit.Quote.Public.Events">
+      <HintPath>..\contrib\Configit.Quote.Public.Events.dll</HintPath>
+    </Reference>
+
+    <Reference Include="Configit.Quote.Domain">
+      <HintPath>..\contrib\Configit.Quote.Domain.dll</HintPath>
+    </Reference>
+
+  </ItemGroup>
+</Project>
